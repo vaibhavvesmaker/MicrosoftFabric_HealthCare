@@ -4,7 +4,7 @@
  
 Microsoft Fabric is a cloud-based, end-to-end analytics platform that brings together data engineering, data integration, data warehousing, data science, real-time analytics, and business intelligence into a single environment. By unifying these capabilities, healthcare organizations can more effectively manage and analyze large volumes of medical data—such as patient records, clinical trial data, and operational workflows—while ensuring compliance, security, and scalability. 
  
-### **Key Components**
+### **Key Components** 
 
 - **Data Factory**: Enables data ingestion, transformation, and orchestration from a wide array of sources.  
 - **Synapse Data Engineering**: Simplifies large-scale data processing and data engineering.  
